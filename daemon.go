@@ -1,4 +1,5 @@
-paclkage daemon
+package daemon
+
 import (
  	"flag"
 	"fmt"
